@@ -1,0 +1,26 @@
+
+	 Welcome to Book Store Management System
+
+ Book Number : 235789
+ Customer Name : Christian Cleofas
+ Transaction Date : Feb 14, 2021
+ Phone Number :	09610090120
+ ==================================================
+ Product		QTY		Price
+ ==================================================
+
+Book1			2		1000
+
+Book2			1		500
+
+Book3			1		500
+
+Book4			1		500
+
+ ==================================================
+Total Paybill Amount :			2500
+ ==================================================
+Total Client Amount :			2550
+ ==================================================
+Total Change Amount :			50
+ ==================================================
